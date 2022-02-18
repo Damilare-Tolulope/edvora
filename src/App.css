@@ -37,17 +37,14 @@
   /* Colors */
   --navBg: #101010;
   --bodyBG: #000000cc;
-  --fadeText: #d0cbcb;
   --textColor: #ffffff;
   --rideBg: #171717;
-  --title: #cfcfcf;
 
   /* Font */
   --fontFamily: Inter
   --bigFont: 36px;
   --medFont: 16px;
   --thickFont: 700;
-  --thinFont: 400;
 
   /* Border */
   --smRadius: 5px;
