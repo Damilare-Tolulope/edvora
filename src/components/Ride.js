@@ -1,5 +1,5 @@
 import React from "react";
-import map from './icons/map.svg'
+import map from './icons/map.png'
 
 const Ride = ({ ride, user }) => {
   const { id, origin_station_code, station_path, date } = ride;
